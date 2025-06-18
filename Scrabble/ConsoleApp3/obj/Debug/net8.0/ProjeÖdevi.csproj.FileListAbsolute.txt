@@ -1,0 +1,14 @@
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ProjeÖdevi.exe
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ProjeÖdevi.deps.json
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ProjeÖdevi.runtimeconfig.json
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ProjeÖdevi.dll
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ProjeÖdevi.pdb
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ProjeÖdevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ProjeÖdevi.AssemblyInfoInputs.cache
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ProjeÖdevi.AssemblyInfo.cs
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ProjeÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ProjeÖdevi.dll
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\ProjeÖdevi.dll
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ProjeÖdevi.pdb
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ProjeÖdevi.genruntimeconfig.cache
+C:\Users\duzyo\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ProjeÖdevi.dll
